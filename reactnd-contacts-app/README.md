@@ -1,20 +1,34 @@
-# Contacts Project
+# Contact Client - RestAPI
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+## Install WSL
+To install linux on windows. please follow the link `https://learn.microsoft.com/en-us/windows/wsl/install`
 
-Most of the commits in this repository correspond to videos in the program.
+## Node version
+This project uses Node version v8.17.0
 
-## Project Setup
+## Overview
 
-* clone the Project - `git clone https://github.com/singluntang/React-contact-App.git`
-* go to the root folder `reactnd-contacts-app`. install the dependencies - `npm install`
+In the Contact Project, you'll build a web app that lets you to add and remove contacts.
 
-## Contributing
+This app is a 2 teir achitecture, a server and a client.
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+## Installation
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+* The only options to install the contact web site is by cloning from the git hub please follow the instructions below (I assume you have install the git program and node package manager).
 
-## Contributing
+    1. From the GitBash/Window Terminal, type in the command:
+        *   `git clone https://github.com/singluntang/reactnd-contacts.git'
+    2. After clone, you need to install the packages and dependencies. Type in the following command.
+        *   `npm install'
+    3.  Now you can run the MyReads App by typing in:
+        *   'npm start' 
+    4. Type in the link "http://localhost:3000/" to access the app.
 
-MIT
+## References
+
+* Code References
+    * [Stack OverFlow](https://stackoverflow.com/)
+    * [Udacity](https://www.udacity.com/)
+    * [GitHub](https://github.com/)
+
+    

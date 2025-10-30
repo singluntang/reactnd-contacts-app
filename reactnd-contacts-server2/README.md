@@ -11,7 +11,7 @@ Getting the server running on your local machine takes only a few steps:
 1. clone the project - `git clone https://github.com/singluntang/React-contact-App.git`
 2. `goto the root folder reactnd-contacts-server2`
 3. install its dependencies - `npm install`
-4. start the server - `node server.js`
+4. start the server - `npm start`
 
 ## Contributing
 

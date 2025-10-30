@@ -14,7 +14,7 @@
     "sort-by": "^1.2.0"
   },
   "scripts": {
-    "start": "cross-env REACT_APP_ENV=staging react-scripts start",
+    "start": "cross-env REACT_APP_CONTACTS_API_URL=http://localhost:3001 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

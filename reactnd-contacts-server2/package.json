@@ -3,11 +3,15 @@
     "body-parser": "^1.18.3",
     "clone": "^2.1.1",
     "cors": "^2.8.3",
+    "cross-env": "^7.0.2",
     "express": "^4.16.4"
   },
+"scripts": {
+"start": "cross-env PORT=3001 node server.js"
+},
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/udacity/reactnd-contacts-server2.git"
+    "url": "https://github.com/singluntang/reactnd-contacts-server2.git"
   }
 }
